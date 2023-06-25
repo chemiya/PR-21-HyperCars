@@ -8,7 +8,7 @@
 
 
 <h2><li>Aplicaciones similares</li></h2>
-<p>Se han encontrado diferentes páginas de concesionarios que se pueden utiliar como referencia:</p>
+<p>Se han encontrado diferentes páginas de concesionarios de coches que se pueden utiliar como referencia:</p>
 <ol>
   <li>http://www.jmautomocion.com/index.html</li>
   <li>https://www.iconicmotor.net/</li>
