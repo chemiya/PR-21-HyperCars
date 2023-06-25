@@ -1,7 +1,7 @@
 <template>
   <div class="exterior-principal">
     <video autoplay loop muted plays-inline>
-      <source src="./../assets/video.mp4" type="video/mp4" />
+      <source src="./../assets/barras.mp4" type="video/mp4" />
     </video>
     <div
       class="capa d-flex flex-column justify-content-center align-items-center"
@@ -344,10 +344,10 @@ video {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #0200459a;
+  background-color: #020e5279;
   width: 100%;
-  padding-top: 300px;
-  padding-bottom: 300px;
+  padding-top: 230px;
+  padding-bottom: 230px;
 }
 
 .icono-marca {
@@ -414,9 +414,27 @@ video {
 
 .exterior-segunda-seccion {
   background-color: #020045;
-  margin-top: 500px;
+  margin-top: 450px;
   padding-top: 200px;
 }
+
+
+@media only screen and (max-width: 768px) {
+  .capa {
+    padding-bottom: 50px;
+    padding-top: 50px;
+  
+  }
+  .titulo-grande-arriba{
+    font-size:30px;
+  }
+  .exterior-segunda-seccion{
+    margin-top:0px;
+  }
+}
+
+
+
 </style>
 
 <script lang="ts">
