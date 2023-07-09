@@ -284,8 +284,8 @@
 
 .exterior-principal {
   background-color: #020045;
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 160px;
+  padding-bottom: 160px;
 }
 
 .exterior-empleado {
@@ -346,8 +346,8 @@ video {
   top: 0;
   background-color: #020e5279;
   width: 100%;
-  padding-top: 230px;
-  padding-bottom: 230px;
+  padding-top: 270px;
+  padding-bottom: 270px;
 }
 
 .icono-marca {
@@ -421,8 +421,8 @@ video {
 
 @media only screen and (max-width: 768px) {
   .capa {
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-bottom: 140px;
+    padding-top: 140px;
   
   }
   .titulo-grande-arriba{
